@@ -2,7 +2,7 @@
 #columns:id;romaji;furigana;ja;fr;tags
 #tags column:6;;;;;
 #guid column:1;;;;;
-1;watashi;わたし;;moi;
+1;watashi;わたし;私;moi;
 2;anata;あなた;;toi;
 3;kare;かれ;;lui;
 4;kanojo;かのじょ;;elle;
@@ -56,7 +56,7 @@
 52;kao;かお;;visage;
 53;me;め;;œil;
 54;mimi;みみ;;oreille;
-55;kuchi;くち;;bouche;
+55;kuchi;くち;口;bouche;
 56;miru;みる;;voir, regarder;
 57;kiku;きく;;écouter, entendre;
 58;shigoto;しごと;;métiers;
