@@ -10,15 +10,22 @@
 4. Katakana / Kanji (ja)
 5. Français (fr)
 6. Tags Anki
+7. Son
+8. Pictogramme
 
 ### En-tête CSV
 
 ```
-#separator:Semicolon
-#columns:id;romaji;furigana;ja;fr;tags
-#tags column:6
+#separator:tab
+#html:true
+#columns:id;romaji;furigana;ja;fr;tags;sound;picto
 #guid column:1
+#tags column:6
 ```
+
+## Accents
+
+[Rechercher l'accent d'un mot](https://www.gavo.t.u-tokyo.ac.jp/ojad/fre/search/index)
 
 ## Sons
 
@@ -26,5 +33,8 @@
 
 ## Pictos
 
-[Rechercher un pictogramme](https://www.pictofacile.com/fr/download-picto)
+### Rechercher un pictogramme
+
+- [Picto facile](https://www.pictofacile.com/fr/download-picto)
+- [ARASAAC](https://arasaac.org/pictograms/search)
 
