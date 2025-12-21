@@ -4,48 +4,48 @@
 #guid column:1;;;;;;;
 1;watashi;わたし;私;moi;;[sound:pronunciation_ja_私.mp3];"<img src=""moi.png"">"
 2;anata;あなた;;toi;;[sound:pronunciation_ja_あなた.mp3];"<img src=""toi.png"">"
-3;kare;かれ;;lui;;;
-4;kanojo;かのじょ;;elle;;;
-5;watashitachi;わたしたち;;nous;;;
-6;anatatachi;あなたたち;;vous (pluriel);;;
-7;karera;かれら;;eux (ils);;;
-8;kanojotachi;かのじょたち;;elles;;;
-9;kutsu;くつ;;chaussure;;;"<img src=""chaussure.png"">"
-10;kutsushita;くつした;;chaussette;;;"<img src=""chaussette.png"">"
-11;bōshi;ぼうし;;chapeau;;;"<img src=""chapeau.png"">"
-12;kōto;こーと;コート;manteau;;;"<img src=""manteau.png"">"
-13;tebukuro;てぶくろ;;gant;;;"<img src=""gant.png"">"
-14;kaban;かばん;カバン;sac;;;
-15;fuku;ふく;;vêtements;;;"<img src=""vêtements.png"">"
-16;akai;あかい;;rouge;;;"<img src=""rouge.png"">"
-17;shiroi;しろい;;blanc;;;"<img src=""blanc.png"">"
-18;kuroi;くろい;;noir;;;"<img src=""noir.png"">"
-19;aoi;あおい;;bleu;;;"<img src=""bleu.png"">"
-20;marui;まるい;;rond;;;
-21;omoshiroi;おもしろい;;intéressant, drôle;;;
-22;ookii;おおきい;;grand;;;"<img src=""grand.png"">"
-23;chiisai;ちいさい;;petit;;;"<img src=""petit.png"">"
-24;yasashii;やさしい;;gentil;;;
-25;kakkoi;かっこい;;cool;;;
-26;kawaii;かわいい;;mignon;;;
-27;akarui;あかるい;;claire, gai;;;
-28;nigiyaka;にぎやか;;animé, joyeux;;;
-29;shizuka;しずか;;calme, silencieux;;;
-30;kirei;きれい;;propre, pure;;;
-31;mono;もの;;objet, chose;;;
-32;suru;する;;faire (une action);;;
-33;tsukuru;つくる;;faire (fabriquer);;;
-34;tsukau;つかう;;utiliser;;;
-35;toru;とる;;prendre;;;
-36;oku;おく;;poser;;;
-37;megane;めがね;;lunettes;;;
-38;kuruma;くるま;;voiture;;;
-39;basutei;ばすてい;バステイ;arrêt de bus;;;
-40;chikatetsu;ちかてつ;;métro;;;
-41;densha;でんしゃ;;train;;;
-42;jitensha;じてんしゃ;;vélo;;;
-43;kūkō;くうこう;;aéroport;;;
-44;hoteru;ほてる;ホテル;hôtel;;;
+3;kare;かれ;;lui;;[sound:pronunciation_ja_かれ.mp3];"<img src=""lui.png"">"
+4;kanojo;かのじょ;;elle;;[sound:pronunciation_ja_かのじょ.mp3];"<img src=""elle.png"">"
+5;watashitachi;わたしたち;;nous;;[sound:pronunciation_ja_わたしたち.mp3];"<img src=""nous.png"">"
+6;anatatachi;あなたたち;;vous (pluriel);;[sound:pronunciation_ja_あなたたち.mp3];"<img src=""vous.png"">"
+7;karera;かれら;;eux (ils);;[sound:pronunciation_ja_かれら.mp3];"<img src=""eux.png"">"
+8;kanojotachi;かのじょたち;;elles;;[sound:pronunciation_ja_かのじょたち.mp3];"<img src=""elles.png"">"
+9;kutsu;くつ;;chaussure;;[sound:pronunciation_ja_くつ.mp3];"<img src=""chaussure.png"">"
+10;kutsushita;くつした;;chaussette;;[sound:pronunciation_ja_くつした.mp3];"<img src=""chaussette.png"">"
+11;bōshi;ぼうし;;chapeau;;[sound:pronunciation_ja_ぼうし.mp3];"<img src=""chapeau.png"">"
+12;kōto;こーと;コート;manteau;;[sound:pronunciation_ja_コート.mp3];"<img src=""manteau.png"">"
+13;tebukuro;てぶくろ;;gant;;[sound:pronunciation_ja_てぶくろ.mp3];"<img src=""gant.png"">"
+14;kaban;かばん;カバン;sac;;[sound:pronunciation_ja_かばん.mp3];"<img src=""sac.png"">"
+15;fuku;ふく;;vêtements;;[sound:pronunciation_ja_ふく.mp3];"<img src=""vêtements.png"">"
+16;akai;あかい;赤い;rouge;;[sound:pronunciation_ja_赤い.mp3];"<img src=""rouge.png"">"
+17;shiroi;しろい;白い;blanc;;[sound:pronunciation_ja_白い.mp3];"<img src=""blanc.png"">"
+18;kuroi;くろい;黒い;noir;;[sound:pronunciation_ja_黒い.mp3];"<img src=""noir.png"">"
+19;aoi;あおい;青い;bleu;;[sound:pronunciation_ja_青い.mp3];"<img src=""bleu.png"">"
+20;marui;まるい;丸い;rond;;[sound:pronunciation_ja_丸い.mp3];"<img src=""rond.png"">"
+21;omoshiroi;おもしろい;;intéressant, drôle;;[sound:pronunciation_ja_おもしろい.mp3];
+22;ookii;おおきい;;grand;;[sound:pronunciation_ja_おおきい.mp3];"<img src=""grand.png"">"
+23;chiisai;ちいさい;;petit;;[sound:pronunciation_ja_ちいさい.mp3];"<img src=""petit.png"">"
+24;yasashii;やさしい;;gentil;;[sound:pronunciation_ja_やさしい.mp3];
+25;kakkoi;かっこい;格好いい;cool;;[sound:pronunciation_ja_格好いい.mp3];
+26;kawaii;かわいい;;mignon;;[sound:pronunciation_ja_かわいい.mp3];
+27;akarui;あかるい;;claire, gai;;[sound:pronunciation_ja_あかるい.mp3];
+28;nigiyaka;にぎやか;;animé, joyeux;;[sound:pronunciation_ja_にぎやか.mp3];
+29;shizuka;しずか;;calme, silencieux;;[sound:pronunciation_ja_しずか.mp3];
+30;kirei;きれい;;propre, pure;;[sound:pronunciation_ja_きれい.mp3];
+31;mono;もの;物;objet, chose;;[sound:pronunciation_ja_物.mp3];
+32;suru;する;;faire (une action);;[sound:pronunciation_ja_する.mp3];
+33;tsukuru;つくる;作る;faire (fabriquer);;[sound:pronunciation_ja_作る.mp3];
+34;tsukau;つかう;使う;utiliser;;[sound:pronunciation_ja_作る.mp3];
+35;toru;とる;取る;prendre;;[sound:pronunciation_ja_取る.mp3];"<img src=""prendre.png"">"
+36;oku;おく;置く;poser;;[sound:pronunciation_ja_置く.mp3];"<img src=""poser.png"">"
+37;megane;めがね;眼鏡;lunettes;;[sound:pronunciation_ja_眼鏡.mp3];"<img src=""lunettes.png"">"
+38;kuruma;くるま;車;voiture;;[sound:pronunciation_ja_車.mp3];"<img src=""voiture.png"">"
+39;basutei;ばすてい;バステイ;arrêt de bus;;[sound:pronunciation_ja_バス停.mp3];"<img src=""arrêt de bus.png"">"
+40;chikatetsu;ちかてつ;地下鉄;métro;;[sound:pronunciation_ja_地下鉄.mp3];"<img src=""métro.png"">"
+41;densha;でんしゃ;電車;train;;[sound:pronunciation_ja_電車.mp3];"<img src=""train.png"">"
+42;jitensha;じてんしゃ;自転車;vélo;;[sound:pronunciation_ja_自転車.mp3];"<img src=""vélo.png"">"
+43;kūkō;くうこう;空港;aéroport;;[sound:pronunciation_ja_空港.mp3];"<img src=""aéroport.png"">"
+44;hoteru;ほてる;ホテル;hôtel;;[sound:pronunciation_ja_ホテル.mp3];"<img src=""hôtel.png"">"
 45;doko desu ka;どこですか;;où est… ?;;;
 46;basho;ばしょ;;lieu;;;
 47;ie;いえ;;maison (bâtiment);;;
@@ -131,7 +131,7 @@
 127;dōzoyoroshiku;どうぞよろしく;;enchanté;;;
 128;hajimemashite;はじめまして;;ravi de faire votre connaissance;;;
 129;otanjōbi omedetō;おたんじょうびおめでとう;;joyeux anniversaire;;;
-130;omedetō gozaimasu;おめでとうございます;;félicitations;;;
+130;omedetō gozaimasu;おめでとうございます;;félicitations;;[sound:pronunciation_ja_おめでとうございます.mp3];
 131;otanjōbi;おたんじょうび;;anniversaire;;;
 132;ji;じ;;heure;;;
 133;han;はん;;et demie (heure);;;
