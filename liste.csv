@@ -1,238 +1,239 @@
-#separator:Semicolon;;;;;;;
-#columns:id;romaji;furigana;ja;fr;tags;sound;picto
-#tags column:6;;;;;;;
-#guid column:1;;;;;;;
-1;watashi;わたし;私;moi;;[sound:pronunciation_ja_私.mp3];"<img src=""moi.png"">"
-2;anata;あなた;;toi;;[sound:pronunciation_ja_あなた.mp3];"<img src=""toi.png"">"
-3;kare;かれ;;lui;;[sound:pronunciation_ja_かれ.mp3];"<img src=""lui.png"">"
-4;kanojo;かのじょ;;elle;;[sound:pronunciation_ja_かのじょ.mp3];"<img src=""elle.png"">"
-5;watashitachi;わたしたち;;nous;;[sound:pronunciation_ja_わたしたち.mp3];"<img src=""nous.png"">"
-6;anatatachi;あなたたち;;vous (pluriel);;[sound:pronunciation_ja_あなたたち.mp3];"<img src=""vous.png"">"
-7;karera;かれら;;eux (ils);;[sound:pronunciation_ja_かれら.mp3];"<img src=""eux.png"">"
-8;kanojotachi;かのじょたち;;elles;;[sound:pronunciation_ja_かのじょたち.mp3];"<img src=""elles.png"">"
-9;kutsu;くつ;;chaussure;;[sound:pronunciation_ja_くつ.mp3];"<img src=""chaussure.png"">"
-10;kutsushita;くつした;;chaussette;;[sound:pronunciation_ja_くつした.mp3];"<img src=""chaussette.png"">"
-11;bōshi;ぼうし;;chapeau;;[sound:pronunciation_ja_ぼうし.mp3];"<img src=""chapeau.png"">"
-12;kōto;こーと;コート;manteau;;[sound:pronunciation_ja_コート.mp3];"<img src=""manteau.png"">"
-13;tebukuro;てぶくろ;;gant;;[sound:pronunciation_ja_てぶくろ.mp3];"<img src=""gant.png"">"
-14;kaban;かばん;カバン;sac;;[sound:pronunciation_ja_かばん.mp3];"<img src=""sac.png"">"
-15;fuku;ふく;;vêtements;;[sound:pronunciation_ja_ふく.mp3];"<img src=""vêtements.png"">"
-16;akai;あかい;赤い;rouge;;[sound:pronunciation_ja_赤い.mp3];"<img src=""rouge.png"">"
-17;shiroi;しろい;白い;blanc;;[sound:pronunciation_ja_白い.mp3];"<img src=""blanc.png"">"
-18;kuroi;くろい;黒い;noir;;[sound:pronunciation_ja_黒い.mp3];"<img src=""noir.png"">"
-19;aoi;あおい;青い;bleu;;[sound:pronunciation_ja_青い.mp3];"<img src=""bleu.png"">"
-20;marui;まるい;丸い;rond;;[sound:pronunciation_ja_丸い.mp3];"<img src=""rond.png"">"
-21;omoshiroi;おもしろい;;intéressant, drôle;;[sound:pronunciation_ja_おもしろい.mp3];
-22;ookii;おおきい;;grand;;[sound:pronunciation_ja_おおきい.mp3];"<img src=""grand.png"">"
-23;chiisai;ちいさい;;petit;;[sound:pronunciation_ja_ちいさい.mp3];"<img src=""petit.png"">"
-24;yasashii;やさしい;;gentil;;[sound:pronunciation_ja_やさしい.mp3];
-25;kakkoi;かっこい;格好いい;cool;;[sound:pronunciation_ja_格好いい.mp3];
-26;kawaii;かわいい;;mignon;;[sound:pronunciation_ja_かわいい.mp3];
-27;akarui;あかるい;;claire, gai;;[sound:pronunciation_ja_あかるい.mp3];
-28;nigiyaka;にぎやか;;animé, joyeux;;[sound:pronunciation_ja_にぎやか.mp3];
-29;shizuka;しずか;;calme, silencieux;;[sound:pronunciation_ja_しずか.mp3];
-30;kirei;きれい;;propre, pure;;[sound:pronunciation_ja_きれい.mp3];
-31;mono;もの;物;objet, chose;;[sound:pronunciation_ja_物.mp3];
-32;suru;する;;faire (une action);;[sound:pronunciation_ja_する.mp3];
-33;tsukuru;つくる;作る;faire (fabriquer);;[sound:pronunciation_ja_作る.mp3];
-34;tsukau;つかう;使う;utiliser;;[sound:pronunciation_ja_作る.mp3];
-35;toru;とる;取る;prendre;;[sound:pronunciation_ja_取る.mp3];"<img src=""prendre.png"">"
-36;oku;おく;置く;poser;;[sound:pronunciation_ja_置く.mp3];"<img src=""poser.png"">"
-37;megane;めがね;眼鏡;lunettes;;[sound:pronunciation_ja_眼鏡.mp3];"<img src=""lunettes.png"">"
-38;kuruma;くるま;車;voiture;;[sound:pronunciation_ja_車.mp3];"<img src=""voiture.png"">"
-39;basutei;ばすてい;バステイ;arrêt de bus;;[sound:pronunciation_ja_バス停.mp3];"<img src=""arrêt de bus.png"">"
-40;chikatetsu;ちかてつ;地下鉄;métro;;[sound:pronunciation_ja_地下鉄.mp3];"<img src=""métro.png"">"
-41;densha;でんしゃ;電車;train;;[sound:pronunciation_ja_電車.mp3];"<img src=""train.png"">"
-42;jitensha;じてんしゃ;自転車;vélo;;[sound:pronunciation_ja_自転車.mp3];"<img src=""vélo.png"">"
-43;kūkō;くうこう;空港;aéroport;;[sound:pronunciation_ja_空港.mp3];"<img src=""aéroport.png"">"
-44;hoteru;ほてる;ホテル;hôtel;;[sound:pronunciation_ja_ホテル.mp3];"<img src=""hôtel.png"">"
-45;doko desu ka;どこですか;;où est… ?;;;
-46;basho;ばしょ;;lieu;;;
-47;ie;いえ;;maison (bâtiment);;;
-48;uchi;うち;;maison (foyer);;;
-49;tsukue;つくえ;;bureau (meuble);;;
-50;gakko;がっこ;;école;;;
-51;toire;といれ;トイレ;toilettes;;;
-52;kao;かお;;visage;;;
-53;me;め;;œil;;;
-54;mimi;みみ;;oreille;;;
-55;kuchi;くち;口;bouche;;;
-56;miru;みる;;voir, regarder;;;
-57;kiku;きく;;écouter, entendre;;;
-58;shigoto;しごと;;métiers;;;
-59;bengoshi;べんごし;;avocat;;;
-60;isha;いしゃ;;docteur;;;
-61;sensei;せんせい;;professeur;;;
-62;gakusei;がくせい;;étudiant;;;
-63;shumi;しゅみ;;loisirs;;;
-64;hon;ほん;;livre;;;
-65;yomu;よむ;;lire;;;
-66;kaku;かく;;écrire;;;
-67;e;え;;dessin;;;
-68;jisho;じしょ;;dictionnaire;;;
-69;pen;ぺん;ペン;stylo (à bille);;;
-70;nōto;のーと;ノート;carnet (notes);;;
-71;hanami;はなみ;;pique-nique (printemps);;;
-72;ikebana;いけばな;;art floral;;;
-73;sora;そら;;ciel;;;
-74;kumo;くも;;nuage;;;
-75;ame;あめ;;pluie;;;
-76;kasa;かさ;;parapluie;;;
-77;yama;やま;山;montagne;;;
-78;umi;うみ;;mer;;;
-79;kawa;かわ;川;rivière;;;
-80;michi;みち;;route, chemin;;;
-81;hana;はな;;fleur;;;
-82;ichi;いち;一;un;;;
-83;ni;に;二;deux;;;
-84;san;さん;三;trois;;;
-85;dōbutsu;どうぶつ;;animaux;;;
-86;neko;ねこ;;chat;;;
-87;inu;いぬ;;chien;;;
-88;tori;とり;;oiseau;;;
-89;uma;うま;;cheval;;;
-90;ushi;うし;;bœuf, vache;;;
-91;hai;はい;;oui;;;
-92;iie;いいえ;;non;;;
-93;iku;いく;;aller;;;
-94;kau;かう;;acheter;;;
-95;kaimono;かいもの;;courses;;;
-96;konbini;こんびに;コンビに;petit magasin, supérette;;;
-97;depāto;でぱーと;デパート;grand magasin;;;
-98;mise;みせ;;magasin, restaurant;;;
-99;tabemono;たべもの;;nourriture;;;
-100;taberu;たべる;;manger;;;
-101;nomu;のむ;;boire;;;
-102;mizu;みず;;eau;;;
-103;sushi;すし;;sushi;;;
-104;ocha;おちゃ;;thé vert;;;
-105;gohan;ごはん;;riz (cuit);;;
-106;pan;ぱん;パン;pain, viennoiseries;;;
-107;piza;ぴざ;ピザ;pizza;;;
-108;pasuta;ぱすた;パスタ;pâtes;;;
-109;karē;かれー;カレー;curry;;;
-110;rāmen;らーめん;ラーメン;ramen;;;
-111;sarada;さらぁ;サラダ;salade;;;
-112;sakana;さかな;魚;poisson;;;
-113;niku;にく;肉;viande;;;
-114;yasai;やさい;;légumes;;;
-115;kudamono;くだもの;;fruits;;;
-116;kōhī;こーひー;コーヒー;café;;;
-117;ame;あめ;;bonbon;;;
-118;oishii;おいしい;;bon, délicieux;;;
-119;ohayō gozaimasu;おはようおざいます;;bonjour (matin);;;
-120;konnichiwa;こんにちは;;bonjour (midi);;;
-121;konbanwa;こんばんは;;bonjour (soir);;;
-122;mata ashita;またあした;;à demain;;;
-123;kudasai;ください;;s’il vous plaît;;;
-124;sumimasen;すみません;;excusez-moi;;;
-125;iiyo;いいよ;;de rien, pas de problème;;;
-126;yōkoso;ようこそ;;bienvenue;;;
-127;dōzoyoroshiku;どうぞよろしく;;enchanté;;;
-128;hajimemashite;はじめまして;;ravi de faire votre connaissance;;;
-129;otanjōbi omedetō;おたんじょうびおめでとう;;joyeux anniversaire;;;
-130;omedetō gozaimasu;おめでとうございます;;félicitations;;[sound:pronunciation_ja_おめでとうございます.mp3];
-131;otanjōbi;おたんじょうび;;anniversaire;;;
-132;ji;じ;;heure;;;
-133;han;はん;;et demie (heure);;;
-134;nanji desu ka;なんじですか;;quelle heure est-il ?;;;
-135;ima;いま;;maintenant;;;
-136;asa;あさ;;matin;;;
-137;hiru;ひる;;midi;;;
-138;yoru;よる;;soir;;;
-139;ashita;あした;;demain;;;
-140;neru;ねる;;dormir;;;
-141;beddo;べっど;ベッド;lit;;;
-142;desu;です;;est;;;
-143;janaidesu;じゃないです;;n’est pas;;;
-144;iru;いる;;exister, être quelque part;;;
-145;ikimono;いきもの;;êtres vivants;;;
-146;hito;ひと;;gens, personnes;;;
-147;kodomo;こども;;enfants;;;
-148;tomodachi;ともだち;;ami;;;
-149;ito;いと;;fil;;;
-150;nihon;にほん;日本;Japon;;;
-151;furansu;ふらんす;フランス;France;;;
-152;amerika;あめりか;アメリカ;États-Unis;;;
-153;kanada;かなだ;カナダ;Canada;;;
-154;burajiru;ぶらじる;ブラジル;Brésil;;;
-155;nihonjin;にほんじん;日本人;japonais;;;
-156;furansujin;ふらんすじん;フランス人;français;;;
-157;amerikajin;あめりかじん;アメリカ人;américain;;;
-158;kanadajin;かなだじん;カナダ人;canadien;;;
-159;burajirujin;ぶらじるじん;ブラジル人;brésilien;;;
-160;tōkyō;とうきょう;東京;Tokyo;;;
-161;kyōto;きょうと;教徒;Kyoto;;;
-162;oosaka;おおさか;大阪;Osaka;;;
-163;niyū yōku;にゆーよーく;ニューヨーク;New-York;;;
-164;toronto;とろんと;トロント;Toronto;;;
-165;pari;ぱり;パリ;Paris;;;
-166;jusshin;じゅっしん;;originaire de;;;
-167;ni sundeimasu;にすんでいます;;j’habite à…;;;
-168;toshi;とし;;ville;;;
-169;machi;まち;;quartier;;;
-170;ka;か;;ou;;;
-171;to;と;;et (énumération complète);;;
-172;ya;や;;et (énumération incomplète);;;
-173;totemo;とても;;très;;;
-174;mo;も;;aussi;;;
-175;ni;に;;dans;;;
-176;kore;これ;;ceci (celui-ci / celle-ci);;;
-177;sore;それ;;cela (celui-là / celle-là);;;
-178;are;あれ;;cela (celui / celle) là-bas;;;
-179;koko;ここ;;ici;;;
-180;asoko;あそこ;;là-bas;;;
-181;kono;この;;ce (cet / cette) … -ci;;;
-182;sono;その;;ce (cet / cette) … -là;;;
-183;ano;あの;;ce (cet / cette) … là-bas;;;
-184;nani;なに;;quoi, que ?;;;
-185;dare;だれ;;qui ?;;;
-186;kara;から;;de la part de;;;
-187;dōryō;どうりょう;;collègue;;;
-188;kaisha;かいしゃ;;bureau, entreprise, compagnie;;;
-189;nengashō;ねんがしょう;;carte de nouvel an;;;
-190;kippu;きっぷ;;ticket;;;
-191;chizu;ちず;;carte, plan;;;
-192;eki;えき;;gare;;;
-193;daigaku;だいがく;;université;;;
-194;kēki;けーき;ケーキ;gâteau;;;
-195;tamago;たまご;;œuf;;;
-196;jaane;じゃあね;;au revoir (familier);;;
-197;genki;げんき;;bien, en bonne santé;;;
-198;samui;さむい;;froid;;;
-199;usagi;うさぎ;;lapin;;;
-200;tanuki;たぬき;;raton laveur;;;
-201;en;えん;;yen;;;
-202;onsen;おんせん;;spa;;;
-203;koi;こい;;carpe;;;
-204;ryokan;りょかん;;auberge japonaise;;;
-205;yuzu;ゆず;;citron;;;
-206;furoshiki;ふろしき;;papier cadeau;;;
-207;taiko;たいこ;;tambour;;;
-208;haha;はは;母;mère;;;
-209;chichi;ちち;父;père;;;
-210;kazoku;かぞく;;famille;;;
-211;isogashii;いそがしい;;occupé;;;
-212;enjinia;えんじにあ;エンジニア;ingénieur;;;
-213;antena;あんてな;アンテナ;antenne;;;
-214;yon;よん;四;quatre;;;
-215;sai;さい;;années (âge);;;
-216;ane;あね;;grande sœur;;;
-217;imōto;いもうと;;petite sœur;;;
-218;in;いん;;membre (de);;;
-219;kaishain;かいしゃいん;;employé de bureau;;;
-220;ani;あに;;grand frère;;;
-221;otōto;おとうと;;petit frère;;;
-222;kangoshi;かんごし;;infirmière;;;
-223;urusai;うるさい;;bruyant;;;
-224;go;ご;五;cinq;;;
-225;roku;ろく;六;six;;;
-226;yūmei;ゆうめい;;célèbre, connu;;;
-227;musume;むすめ;;fille (filiation);;;
-228;tsuma;つま;;femme (mariée);;;
-229;daigakusei;だいがくせい;;étudiant (à l’université);;;
-230;nana;なな;七;sept;;;
-231;oshare;おしゃれ;;à la mode;;;
-232;musuko;むすこ;;fils (filiation);;;
-233;otto;おっと;;mari;;;
-234;atamagaii;あたまがいい;;intelligent;;;
+#separator:tab							
+#html:true							
+#columns:id	romaji	furigana	ja	fr	tags	sound	picto
+#tags column:6							
+#guid column:1							
+1	watashi	わたし	私	moi		[sound:pronunciation_ja_私.mp3]	"<img src=""moi.png"">"
+2	anata	あなた		toi		[sound:pronunciation_ja_あなた.mp3]	"<img src=""toi.png"">"
+3	kare	かれ		lui		[sound:pronunciation_ja_かれ.mp3]	"<img src=""lui.png"">"
+4	kanojo	かのじょ		elle		[sound:pronunciation_ja_かのじょ.mp3]	"<img src=""elle.png"">"
+5	watashitachi	わたしたち		nous		[sound:pronunciation_ja_わたしたち.mp3]	"<img src=""nous.png"">"
+6	anatatachi	あなたたち		vous (pluriel)		[sound:pronunciation_ja_あなたたち.mp3]	"<img src=""vous.png"">"
+7	karera	かれら		eux (ils)		[sound:pronunciation_ja_かれら.mp3]	"<img src=""eux.png"">"
+8	kanojotachi	かのじょたち		elles		[sound:pronunciation_ja_かのじょたち.mp3]	"<img src=""elles.png"">"
+9	kutsu	くつ		chaussure		[sound:pronunciation_ja_くつ.mp3]	"<img src=""chaussure.png"">"
+10	kutsushita	くつした		chaussette		[sound:pronunciation_ja_くつした.mp3]	"<img src=""chaussette.png"">"
+11	bōshi	ぼうし		chapeau		[sound:pronunciation_ja_ぼうし.mp3]	"<img src=""chapeau.png"">"
+12	kōto	こーと	コート	manteau		[sound:pronunciation_ja_コート.mp3]	"<img src=""manteau.png"">"
+13	tebukuro	てぶくろ		gant		[sound:pronunciation_ja_てぶくろ.mp3]	"<img src=""gant.png"">"
+14	kaban	かばん	カバン	sac		[sound:pronunciation_ja_かばん.mp3]	"<img src=""sac.png"">"
+15	fuku	ふく		vêtements		[sound:pronunciation_ja_ふく.mp3]	"<img src=""vêtements.png"">"
+16	akai	あかい	赤い	rouge		[sound:pronunciation_ja_赤い.mp3]	"<img src=""rouge.png"">"
+17	shiroi	しろい	白い	blanc		[sound:pronunciation_ja_白い.mp3]	"<img src=""blanc.png"">"
+18	kuroi	くろい	黒い	noir		[sound:pronunciation_ja_黒い.mp3]	"<img src=""noir.png"">"
+19	aoi	あおい	青い	bleu		[sound:pronunciation_ja_青い.mp3]	"<img src=""bleu.png"">"
+20	marui	まるい	丸い	rond		[sound:pronunciation_ja_丸い.mp3]	"<img src=""rond.png"">"
+21	omoshiroi	おもしろい		intéressant, drôle		[sound:pronunciation_ja_おもしろい.mp3]	
+22	ookii	おおきい		grand		[sound:pronunciation_ja_おおきい.mp3]	"<img src=""grand.png"">"
+23	chiisai	ちいさい		petit		[sound:pronunciation_ja_ちいさい.mp3]	"<img src=""petit.png"">"
+24	yasashii	やさしい		gentil		[sound:pronunciation_ja_やさしい.mp3]	
+25	kakkoi	かっこい	格好いい	cool		[sound:pronunciation_ja_格好いい.mp3]	
+26	kawaii	かわいい		mignon		[sound:pronunciation_ja_かわいい.mp3]	
+27	akarui	あかるい		claire, gai		[sound:pronunciation_ja_あかるい.mp3]	
+28	nigiyaka	にぎやか		animé, joyeux		[sound:pronunciation_ja_にぎやか.mp3]	
+29	shizuka	しずか		calme, silencieux		[sound:pronunciation_ja_しずか.mp3]	
+30	kirei	きれい		propre, pure		[sound:pronunciation_ja_きれい.mp3]	
+31	mono	もの	物	objet, chose		[sound:pronunciation_ja_物.mp3]	
+32	suru	する		faire (une action)		[sound:pronunciation_ja_する.mp3]	
+33	tsukuru	つくる	作る	faire (fabriquer)		[sound:pronunciation_ja_作る.mp3]	
+34	tsukau	つかう	使う	utiliser		[sound:pronunciation_ja_作る.mp3]	
+35	toru	とる	取る	prendre		[sound:pronunciation_ja_取る.mp3]	"<img src=""prendre.png"">"
+36	oku	おく	置く	poser		[sound:pronunciation_ja_置く.mp3]	"<img src=""poser.png"">"
+37	megane	めがね	眼鏡	lunettes		[sound:pronunciation_ja_眼鏡.mp3]	"<img src=""lunettes.png"">"
+38	kuruma	くるま	車	voiture		[sound:pronunciation_ja_車.mp3]	"<img src=""voiture.png"">"
+39	basutei	ばすてい	バステイ	arrêt de bus		[sound:pronunciation_ja_バス停.mp3]	"<img src=""arrêt de bus.png"">"
+40	chikatetsu	ちかてつ	地下鉄	métro		[sound:pronunciation_ja_地下鉄.mp3]	"<img src=""métro.png"">"
+41	densha	でんしゃ	電車	train		[sound:pronunciation_ja_電車.mp3]	"<img src=""train.png"">"
+42	jitensha	じてんしゃ	自転車	vélo		[sound:pronunciation_ja_自転車.mp3]	"<img src=""vélo.png"">"
+43	kūkō	くうこう	空港	aéroport		[sound:pronunciation_ja_空港.mp3]	"<img src=""aéroport.png"">"
+44	hoteru	ほてる	ホテル	hôtel		[sound:pronunciation_ja_ホテル.mp3]	"<img src=""hôtel.png"">"
+45	doko desu ka	どこですか		où est… ?			
+46	basho	ばしょ		lieu			
+47	ie	いえ		maison (bâtiment)			
+48	uchi	うち		maison (foyer)			
+49	tsukue	つくえ		bureau (meuble)			
+50	gakko	がっこ		école			
+51	toire	といれ	トイレ	toilettes			
+52	kao	かお		visage			
+53	me	め		œil			
+54	mimi	みみ		oreille			
+55	kuchi	くち	口	bouche			
+56	miru	みる		voir, regarder			
+57	kiku	きく		écouter, entendre			
+58	shigoto	しごと		métiers			
+59	bengoshi	べんごし		avocat			
+60	isha	いしゃ		docteur			
+61	sensei	せんせい		professeur			
+62	gakusei	がくせい		étudiant			
+63	shumi	しゅみ		loisirs			
+64	hon	ほん		livre			
+65	yomu	よむ		lire			
+66	kaku	かく		écrire			
+67	e	え		dessin			
+68	jisho	じしょ		dictionnaire			
+69	pen	ぺん	ペン	stylo (à bille)			
+70	nōto	のーと	ノート	carnet (notes)			
+71	hanami	はなみ		pique-nique (printemps)			
+72	ikebana	いけばな		art floral			
+73	sora	そら		ciel			
+74	kumo	くも		nuage			
+75	ame	あめ		pluie			
+76	kasa	かさ		parapluie			
+77	yama	やま	山	montagne			
+78	umi	うみ		mer			
+79	kawa	かわ	川	rivière			
+80	michi	みち		route, chemin			
+81	hana	はな		fleur			
+82	ichi	いち	一	un			
+83	ni	に	二	deux			
+84	san	さん	三	trois			
+85	dōbutsu	どうぶつ		animaux			
+86	neko	ねこ		chat			
+87	inu	いぬ		chien			
+88	tori	とり		oiseau			
+89	uma	うま		cheval			
+90	ushi	うし		bœuf, vache			
+91	hai	はい		oui			
+92	iie	いいえ		non			
+93	iku	いく		aller			
+94	kau	かう		acheter			
+95	kaimono	かいもの		courses			
+96	konbini	こんびに	コンビに	petit magasin, supérette			
+97	depāto	でぱーと	デパート	grand magasin			
+98	mise	みせ		magasin, restaurant			
+99	tabemono	たべもの		nourriture			
+100	taberu	たべる		manger			
+101	nomu	のむ		boire			
+102	mizu	みず		eau			
+103	sushi	すし		sushi			
+104	ocha	おちゃ		thé vert			
+105	gohan	ごはん		riz (cuit)			
+106	pan	ぱん	パン	pain, viennoiseries			
+107	piza	ぴざ	ピザ	pizza			
+108	pasuta	ぱすた	パスタ	pâtes			
+109	karē	かれー	カレー	curry			
+110	rāmen	らーめん	ラーメン	ramen			
+111	sarada	さらぁ	サラダ	salade			
+112	sakana	さかな	魚	poisson			
+113	niku	にく	肉	viande			
+114	yasai	やさい		légumes			
+115	kudamono	くだもの		fruits			
+116	kōhī	こーひー	コーヒー	café			
+117	ame	あめ		bonbon			
+118	oishii	おいしい		bon, délicieux			
+119	ohayō gozaimasu	おはようおざいます		bonjour (matin)			
+120	konnichiwa	こんにちは		bonjour (midi)			
+121	konbanwa	こんばんは		bonjour (soir)			
+122	mata ashita	またあした		à demain			
+123	kudasai	ください		s’il vous plaît			
+124	sumimasen	すみません		excusez-moi			
+125	iiyo	いいよ		de rien, pas de problème			
+126	yōkoso	ようこそ		bienvenue			
+127	dōzoyoroshiku	どうぞよろしく		enchanté			
+128	hajimemashite	はじめまして		ravi de faire votre connaissance			
+129	otanjōbi omedetō	おたんじょうびおめでとう		joyeux anniversaire			
+130	omedetō gozaimasu	おめでとうございます		félicitations		[sound:pronunciation_ja_おめでとうございます.mp3]	
+131	otanjōbi	おたんじょうび		anniversaire			
+132	ji	じ		heure			
+133	han	はん		et demie (heure)			
+134	nanji desu ka	なんじですか		quelle heure est-il ?			
+135	ima	いま		maintenant			
+136	asa	あさ		matin			
+137	hiru	ひる		midi			
+138	yoru	よる		soir			
+139	ashita	あした		demain			
+140	neru	ねる		dormir			
+141	beddo	べっど	ベッド	lit			
+142	desu	です		est			
+143	janaidesu	じゃないです		n’est pas			
+144	iru	いる		exister, être quelque part			
+145	ikimono	いきもの		êtres vivants			
+146	hito	ひと		gens, personnes			
+147	kodomo	こども		enfants			
+148	tomodachi	ともだち		ami			
+149	ito	いと		fil			
+150	nihon	にほん	日本	Japon			
+151	furansu	ふらんす	フランス	France			
+152	amerika	あめりか	アメリカ	États-Unis			
+153	kanada	かなだ	カナダ	Canada			
+154	burajiru	ぶらじる	ブラジル	Brésil			
+155	nihonjin	にほんじん	日本人	japonais			
+156	furansujin	ふらんすじん	フランス人	français			
+157	amerikajin	あめりかじん	アメリカ人	américain			
+158	kanadajin	かなだじん	カナダ人	canadien			
+159	burajirujin	ぶらじるじん	ブラジル人	brésilien			
+160	tōkyō	とうきょう	東京	Tokyo			
+161	kyōto	きょうと	教徒	Kyoto			
+162	oosaka	おおさか	大阪	Osaka			
+163	niyū yōku	にゆーよーく	ニューヨーク	New-York			
+164	toronto	とろんと	トロント	Toronto			
+165	pari	ぱり	パリ	Paris			
+166	jusshin	じゅっしん		originaire de			
+167	ni sundeimasu	にすんでいます		j’habite à…			
+168	toshi	とし		ville			
+169	machi	まち		quartier			
+170	ka	か		ou			
+171	to	と		et (énumération complète)			
+172	ya	や		et (énumération incomplète)			
+173	totemo	とても		très			
+174	mo	も		aussi			
+175	ni	に		dans			
+176	kore	これ		ceci (celui-ci / celle-ci)			
+177	sore	それ		cela (celui-là / celle-là)			
+178	are	あれ		cela (celui / celle) là-bas			
+179	koko	ここ		ici			
+180	asoko	あそこ		là-bas			
+181	kono	この		ce (cet / cette) … -ci			
+182	sono	その		ce (cet / cette) … -là			
+183	ano	あの		ce (cet / cette) … là-bas			
+184	nani	なに		quoi, que ?			
+185	dare	だれ		qui ?			
+186	kara	から		de la part de			
+187	dōryō	どうりょう		collègue			
+188	kaisha	かいしゃ		bureau, entreprise, compagnie			
+189	nengashō	ねんがしょう		carte de nouvel an			
+190	kippu	きっぷ		ticket			
+191	chizu	ちず		carte, plan			
+192	eki	えき		gare			
+193	daigaku	だいがく		université			
+194	kēki	けーき	ケーキ	gâteau			
+195	tamago	たまご		œuf			
+196	jaane	じゃあね		au revoir (familier)			
+197	genki	げんき		bien, en bonne santé			
+198	samui	さむい		froid			
+199	usagi	うさぎ		lapin			
+200	tanuki	たぬき		raton laveur			
+201	en	えん		yen			
+202	onsen	おんせん		spa			
+203	koi	こい		carpe			
+204	ryokan	りょかん		auberge japonaise			
+205	yuzu	ゆず		citron			
+206	furoshiki	ふろしき		papier cadeau			
+207	taiko	たいこ		tambour			
+208	haha	はは	母	mère			
+209	chichi	ちち	父	père			
+210	kazoku	かぞく		famille			
+211	isogashii	いそがしい		occupé			
+212	enjinia	えんじにあ	エンジニア	ingénieur			
+213	antena	あんてな	アンテナ	antenne			
+214	yon	よん	四	quatre			
+215	sai	さい		années (âge)			
+216	ane	あね		grande sœur			
+217	imōto	いもうと		petite sœur			
+218	in	いん		membre (de)			
+219	kaishain	かいしゃいん		employé de bureau			
+220	ani	あに		grand frère			
+221	otōto	おとうと		petit frère			
+222	kangoshi	かんごし		infirmière			
+223	urusai	うるさい		bruyant			
+224	go	ご	五	cinq			
+225	roku	ろく	六	six			
+226	yūmei	ゆうめい		célèbre, connu			
+227	musume	むすめ		fille (filiation)			
+228	tsuma	つま		femme (mariée)			
+229	daigakusei	だいがくせい		étudiant (à l’université)			
+230	nana	なな	七	sept			
+231	oshare	おしゃれ		à la mode			
+232	musuko	むすこ		fils (filiation)			
+233	otto	おっと		mari			
+234	atamagaii	あたまがいい		intelligent			
