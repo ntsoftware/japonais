@@ -1,4 +1,4 @@
-# vim: vts=16,32,32,32,32,48 noet nowrap
+# vim: vts=16,32,32,32,32,48 noet nowrap							
 #separator:tab							
 #html:true							
 #guid column:1							
@@ -28,9 +28,9 @@
 22	grand		おおきい	ookii	[sound:pronunciation_ja_おおきい.mp3]	"<img src=""grand.png"">"	
 23	petit		ちいさい	chiisai	[sound:pronunciation_ja_ちいさい.mp3]	"<img src=""petit.png"">"	
 24	gentil		やさしい	yasashii	[sound:pronunciation_ja_やさしい.mp3]		
-25	cool	格好いい	かっこい	kakkoi	[sound:pronunciation_ja_格好いい.mp3]		
+25	cool, attirant	格好いい	かっこいい	kakkoii	[sound:pronunciation_ja_格好いい.mp3]		
 26	mignon		かわいい	kawaii	[sound:pronunciation_ja_かわいい.mp3]		
-27	claire, gai		あかるい	akarui	[sound:pronunciation_ja_あかるい.mp3]		
+27	clair, lumineux, gai		あかるい	akarui	[sound:pronunciation_ja_あかるい.mp3]		
 28	animé, joyeux		にぎやか	nigiyaka	[sound:pronunciation_ja_にぎやか.mp3]		
 29	calme, silencieux		しずか	shizuka	[sound:pronunciation_ja_しずか.mp3]		
 30	propre, pure		きれい	kirei	[sound:pronunciation_ja_きれい.mp3]		
@@ -62,7 +62,7 @@
 56	voir, regarder		みる	miru			
 57	écouter, entendre		きく	kiku			
 58	métiers		しごと	shigoto			
-59	avocat		べんごし	bengoshi			
+59	avocat (métier)		べんごし	bengoshi			
 60	docteur		いしゃ	isha			
 61	professeur		せんせい	sensei			
 62	étudiant		がくせい	gakusei			
@@ -90,7 +90,7 @@
 84	trois	三	さん	san			
 85	animaux		どうぶつ	dōbutsu			
 86	chat		ねこ	neko			
-87	chien		いぬ	inu			
+87	chien	犬	いぬ	inu			
 88	oiseau		とり	tori			
 89	cheval		うま	uma			
 90	bœuf, vache		うし	ushi			
