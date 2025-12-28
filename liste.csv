@@ -9,11 +9,11 @@
 3	lui		かれ	kare	[sound:pronunciation_ja_かれ.mp3]	"<img src=""lui.png"">"	
 4	elle		かのじょ	kanojo	[sound:pronunciation_ja_かのじょ.mp3]	"<img src=""elle.png"">"	
 5	nous		わたしたち	watashitachi	[sound:pronunciation_ja_わたしたち.mp3]	"<img src=""nous.png"">"	
-6	vous (pluriel)		あなたたち	anatatachi	[sound:pronunciation_ja_あなたたち.mp3]	"<img src=""vous.png"">"	
-7	eux (ils)		かれら	karera	[sound:pronunciation_ja_かれら.mp3]	"<img src=""eux.png"">"	
+6	vous (pluriel)		あなたたち	anatatachi	[sound:pronunciation_ja_あなたたち.mp3]	"<img src=""vous (pluriel).png"">"	
+7	eux (ils)		かれら	karera	[sound:pronunciation_ja_かれら.mp3]	"<img src=""eux (ils).png"">"	
 8	elles		かのじょたち	kanojotachi	[sound:pronunciation_ja_かのじょたち.mp3]	"<img src=""elles.png"">"	
 9	chaussure		くつ	kutsu	[sound:pronunciation_ja_くつ.mp3]	"<img src=""chaussure.png"">"	
-10	chaussette		くつした	kutsushita	[sound:pronunciation_ja_くつした.mp3]	"<img src=""chaussette.png"">"	
+10	chaussette	靴下	くつした	kutsushita	[sound:pronunciation_ja_靴下(1).mp3]	"<img src=""chaussette.png"">"	
 11	chapeau		ぼうし	bōshi	[sound:pronunciation_ja_ぼうし.mp3]	"<img src=""chapeau.png"">"	
 12	manteau	コート	こーと	kōto	[sound:pronunciation_ja_コート.mp3]	"<img src=""manteau.png"">"	
 13	gant		てぶくろ	tebukuro	[sound:pronunciation_ja_てぶくろ.mp3]	"<img src=""gant.png"">"	
@@ -27,14 +27,14 @@
 21	intéressant, drôle		おもしろい	omoshiroi	[sound:pronunciation_ja_おもしろい.mp3]		
 22	grand		おおきい	ookii	[sound:pronunciation_ja_おおきい.mp3]	"<img src=""grand.png"">"	
 23	petit		ちいさい	chiisai	[sound:pronunciation_ja_ちいさい.mp3]	"<img src=""petit.png"">"	
-24	gentil		やさしい	yasashii	[sound:pronunciation_ja_やさしい.mp3]		
+24	gentil		やさしい	yasashii	[sound:pronunciation_ja_やさしい.mp3]	"<img src=""gentil.png"">"	
 25	cool, attirant	格好いい	かっこいい	kakkoii	[sound:pronunciation_ja_格好いい.mp3]		
-26	mignon		かわいい	kawaii	[sound:pronunciation_ja_かわいい.mp3]		
-27	clair, lumineux, gai		あかるい	akarui	[sound:pronunciation_ja_あかるい.mp3]		
-28	animé, joyeux		にぎやか	nigiyaka	[sound:pronunciation_ja_にぎやか.mp3]		
-29	calme, silencieux		しずか	shizuka	[sound:pronunciation_ja_しずか.mp3]		
-30	propre, pure		きれい	kirei	[sound:pronunciation_ja_きれい.mp3]		
-31	objet, chose	物	もの	mono	[sound:pronunciation_ja_物.mp3]		
+26	mignon		かわいい	kawaii	[sound:pronunciation_ja_かわいい.mp3]	"<img src=""mignon.png"">"	
+27	clair, lumineux, gai		あかるい	akarui	[sound:pronunciation_ja_あかるい.mp3]	"<img src=""clair.png"">"	
+28	animé, joyeux		にぎやか	nigiyaka	[sound:pronunciation_ja_にぎやか.mp3]	"<img src=""joyeux.png"">"	
+29	calme, silencieux		しずか	shizuka	[sound:pronunciation_ja_しずか.mp3]	"<img src=""calme.png"">"	
+30	propre, pure		きれい	kirei	[sound:pronunciation_ja_きれい.mp3]	"<img src=""propre.png"">"	
+31	objet, chose	物	もの	mono	[sound:pronunciation_ja_物.mp3]	"<img src=""objet.png"">"	
 32	faire (une action)		する	suru	[sound:pronunciation_ja_する.mp3]		
 33	faire (fabriquer)	作る	つくる	tsukuru	[sound:pronunciation_ja_作る.mp3]		
 34	utiliser	使う	つかう	tsukau	[sound:pronunciation_ja_作る.mp3]		
@@ -49,78 +49,78 @@
 43	aéroport	空港	くうこう	kūkō	[sound:pronunciation_ja_空港.mp3]	"<img src=""aéroport.png"">"	
 44	hôtel	ホテル	ほてる	hoteru	[sound:pronunciation_ja_ホテル.mp3]	"<img src=""hôtel.png"">"	
 45	où est… ?		どこですか	doko desu ka			
-46	lieu		ばしょ	basho			
-47	maison (bâtiment)		いえ	ie			
-48	maison (foyer)		うち	uchi			
-49	bureau (meuble)		つくえ	tsukue			
-50	école		がっこ	gakko			
-51	toilettes	トイレ	といれ	toire			
-52	visage		かお	kao			
-53	œil		め	me			
-54	oreille		みみ	mimi			
-55	bouche	口	くち	kuchi			
-56	voir, regarder		みる	miru			
-57	écouter, entendre		きく	kiku			
-58	métiers		しごと	shigoto			
-59	avocat (métier)		べんごし	bengoshi			
-60	docteur		いしゃ	isha			
-61	professeur		せんせい	sensei			
-62	étudiant		がくせい	gakusei			
-63	loisirs		しゅみ	shumi			
-64	livre		ほん	hon			
-65	lire		よむ	yomu			
-66	écrire		かく	kaku			
-67	dessin		え	e			
-68	dictionnaire		じしょ	jisho			
-69	stylo (à bille)	ペン	ぺん	pen			
-70	carnet (notes)	ノート	のーと	nōto			
-71	pique-nique (printemps)		はなみ	hanami			
-72	art floral		いけばな	ikebana			
-73	ciel		そら	sora			
-74	nuage		くも	kumo			
-75	pluie		あめ	ame			
-76	parapluie		かさ	kasa			
-77	montagne	山	やま	yama			
-78	mer		うみ	umi			
-79	rivière	川	かわ	kawa			
-80	route, chemin		みち	michi			
-81	fleur		はな	hana			
-82	un	一	いち	ichi			
-83	deux	二	に	ni			
-84	trois	三	さん	san			
-85	animaux		どうぶつ	dōbutsu			
-86	chat		ねこ	neko			
-87	chien	犬	いぬ	inu			
-88	oiseau		とり	tori			
-89	cheval		うま	uma			
-90	bœuf, vache		うし	ushi			
-91	oui		はい	hai			
-92	non		いいえ	iie			
-93	aller		いく	iku			
-94	acheter		かう	kau			
-95	courses		かいもの	kaimono			
+46	lieu		ばしょ	basho		"<img src=""lieu.png"">"	
+47	maison (bâtiment)		いえ	ie		"<img src=""maison (bâtiment).png"">"	
+48	maison (foyer)		うち	uchi		"<img src=""maison (foyer).png"">"	
+49	bureau (meuble)		つくえ	tsukue		"<img src=""bureau (meuble).png"">"	
+50	école		がっこ	gakko		"<img src=""école.png"">"	
+51	toilettes	トイレ	といれ	toire		"<img src=""toilettes.png"">"	
+52	visage		かお	kao		"<img src=""visage.png"">"	
+53	œil		め	me		"<img src=""œil.png"">"	
+54	oreille		みみ	mimi		"<img src=""oreille.png"">"	
+55	bouche	口	くち	kuchi		"<img src=""bouche.png"">"	
+56	voir, regarder		みる	miru		"<img src=""voir.png"">"	
+57	écouter, entendre		きく	kiku		"<img src=""écouter.png"">"	
+58	métiers		しごと	shigoto		"<img src=""métiers.png"">"	
+59	avocat (métier)		べんごし	bengoshi		"<img src=""avocat (métier).png"">"	
+60	docteur		いしゃ	isha		"<img src=""docteur.png"">"	
+61	professeur		せんせい	sensei		"<img src=""professeur.png"">"	
+62	étudiant		がくせい	gakusei		"<img src=""étudiant.png"">"	
+63	loisirs		しゅみ	shumi		"<img src=""loisirs.png"">"	
+64	livre		ほん	hon		"<img src=""livre.png"">"	
+65	lire		よむ	yomu		"<img src=""lire.png"">"	
+66	écrire		かく	kaku		"<img src=""écrire.png"">"	
+67	dessin		え	e		"<img src=""dessin.png"">"	
+68	dictionnaire		じしょ	jisho		"<img src=""dictionnaire.png"">"	
+69	stylo (à bille)	ペン	ぺん	pen		"<img src=""stylo (à bille).png"">"	
+70	carnet (notes)	ノート	のーと	nōto		"<img src=""carnet (notes).png"">"	
+71	pique-nique (printemps)		はなみ	hanami		"<img src=""pique-nique (printemps).png"">"	
+72	art floral		いけばな	ikebana		"<img src=""art floral.png"">"	
+73	ciel		そら	sora		"<img src=""ciel.png"">"	
+74	nuage		くも	kumo		"<img src=""nuage.png"">"	
+75	pluie		あめ	ame		"<img src=""pluie.png"">"	
+76	parapluie		かさ	kasa		"<img src=""parapluie.png"">"	
+77	montagne	山	やま	yama		"<img src=""montagne.png"">"	
+78	mer		うみ	umi		"<img src=""mer.png"">"	
+79	rivière	川	かわ	kawa		"<img src=""rivière.png"">"	
+80	route, chemin		みち	michi		"<img src=""route.png"">"	
+81	fleur		はな	hana		"<img src=""fleur.png"">"	
+82	un	一	いち	ichi		"<img src=""un.png"">"	
+83	deux	二	に	ni		"<img src=""deux.png"">"	
+84	trois	三	さん	san		"<img src=""trois.png"">"	
+85	animaux		どうぶつ	dōbutsu		"<img src=""animaux.png"">"	
+86	chat		ねこ	neko		"<img src=""chat.png"">"	
+87	chien	犬	いぬ	inu		"<img src=""chien.png"">"	
+88	oiseau		とり	tori		"<img src=""oiseau.png"">"	
+89	cheval		うま	uma		"<img src=""cheval.png"">"	
+90	bœuf, vache		うし	ushi		"<img src=""bœuf.png"">"	
+91	oui		はい	hai		"<img src=""oui.png"">"	
+92	non		いいえ	iie		"<img src=""non.png"">"	
+93	aller		いく	iku		"<img src=""aller.png"">"	
+94	acheter		かう	kau		"<img src=""acheter.png"">"	
+95	courses		かいもの	kaimono		"<img src=""courses.png"">"	
 96	petit magasin, supérette	コンビに	こんびに	konbini			
 97	grand magasin	デパート	でぱーと	depāto			
-98	magasin, restaurant		みせ	mise			
-99	nourriture		たべもの	tabemono			
-100	manger		たべる	taberu			
-101	boire		のむ	nomu			
-102	eau		みず	mizu			
-103	sushi		すし	sushi			
-104	thé vert		おちゃ	ocha			
-105	riz (cuit)		ごはん	gohan			
-106	pain, viennoiseries	パン	ぱん	pan			
-107	pizza	ピザ	ぴざ	piza			
-108	pâtes	パスタ	ぱすた	pasuta			
-109	curry	カレー	かれー	karē			
-110	ramen	ラーメン	らーめん	rāmen			
-111	salade	サラダ	さらぁ	sarada			
-112	poisson	魚	さかな	sakana			
-113	viande	肉	にく	niku			
-114	légumes		やさい	yasai			
-115	fruits		くだもの	kudamono			
-116	café	コーヒー	こーひー	kōhī			
-117	bonbon		あめ	ame			
+98	magasin, restaurant		みせ	mise		"<img src=""magasin.png"">"	
+99	nourriture		たべもの	tabemono		"<img src=""nourriture.png"">"	
+100	manger		たべる	taberu		"<img src=""manger.png"">"	
+101	boire		のむ	nomu		"<img src=""boire.png"">"	
+102	eau		みず	mizu		"<img src=""eau.png"">"	
+103	sushi		すし	sushi		"<img src=""sushi.png"">"	
+104	thé vert		おちゃ	ocha		"<img src=""thé vert.png"">"	
+105	riz (cuit)		ごはん	gohan		"<img src=""riz (cuit).png"">"	
+106	pain, viennoiseries	パン	ぱん	pan		"<img src=""viennoiseries.png"">"	
+107	pizza	ピザ	ぴざ	piza		"<img src=""pizza.png"">"	
+108	pâtes	パスタ	ぱすた	pasuta		"<img src=""pâtes.png"">"	
+109	curry	カレー	かれー	karē		"<img src=""curry.png"">"	
+110	ramen	ラーメン	らーめん	rāmen		"<img src=""ramen.png"">"	
+111	salade	サラダ	さらぁ	sarada		"<img src=""salade.png"">"	
+112	poisson	魚	さかな	sakana		"<img src=""poisson.png"">"	
+113	viande	肉	にく	niku		"<img src=""viande.png"">"	
+114	légumes		やさい	yasai		"<img src=""légumes.png"">"	
+115	fruits		くだもの	kudamono		"<img src=""fruits.png"">"	
+116	café	コーヒー	こーひー	kōhī		"<img src=""café.png"">"	
+117	bonbon		あめ	ame		"<img src=""bonbon.png"">"	
 118	bon, délicieux		おいしい	oishii			
 119	bonjour (matin)		おはようおざいます	ohayō gozaimasu			
 120	bonjour (midi)		こんにちは	konnichiwa			
@@ -195,8 +195,8 @@
 189	carte de nouvel an		ねんがしょう	nengashō			
 190	ticket		きっぷ	kippu			
 191	carte, plan		ちず	chizu			
-192	gare		えき	eki			
-193	université		だいがく	daigaku			
+192	gare		えき	eki		"<img src=""gare.png"">"	
+193	université		だいがく	daigaku		"<img src=""université.png"">"	
 194	gâteau	ケーキ	けーき	kēki			
 195	œuf		たまご	tamago			
 196	au revoir (familier)		じゃあね	jaane			
@@ -217,7 +217,7 @@
 211	occupé		いそがしい	isogashii			
 212	ingénieur	エンジニア	えんじにあ	enjinia			
 213	antenne	アンテナ	あんてな	antena			
-214	quatre	四	よん	yon			
+214	quatre	四	よん	yon		"<img src=""quatre.png"">"	
 215	années (âge)		さい	sai			
 216	grande sœur		あね	ane			
 217	petite sœur		いもうと	imōto			
@@ -227,13 +227,13 @@
 221	petit frère		おとうと	otōto			
 222	infirmière		かんごし	kangoshi			
 223	bruyant		うるさい	urusai			
-224	cinq	五	ご	go			
-225	six	六	ろく	roku			
+224	cinq	五	ご	go		"<img src=""cinq.png"">"	
+225	six	六	ろく	roku		"<img src=""six.png"">"	
 226	célèbre, connu		ゆうめい	yūmei			
 227	fille (filiation)		むすめ	musume			
 228	femme (mariée)		つま	tsuma			
 229	étudiant (à l’université)		だいがくせい	daigakusei			
-230	sept	七	なな	nana			
+230	sept	七	なな	nana		"<img src=""sept.png"">"	
 231	à la mode		おしゃれ	oshare			
 232	fils (filiation)		むすこ	musuko			
 233	mari		おっと	otto			
