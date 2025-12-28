@@ -121,7 +121,7 @@
 115	fruits		くだもの	kudamono		"<img src=""fruits.png"">"	
 116	café	コーヒー	こーひー	kōhī		"<img src=""café.png"">"	
 117	bonbon		あめ	ame		"<img src=""bonbon.png"">"	
-118	bon, délicieux		おいしい	oishii			
+118	bon, délicieux		おいしい	oishii		"<img src=""bon.png"">"	
 119	bonjour (matin)		おはようおざいます	ohayō gozaimasu			
 120	bonjour (midi)		こんにちは	konnichiwa			
 121	bonjour (soir)		こんばんは	konbanwa			
@@ -129,12 +129,12 @@
 123	s’il vous plaît		ください	kudasai			
 124	excusez-moi		すみません	sumimasen			
 125	de rien, pas de problème		いいよ	iiyo			
-126	bienvenue		ようこそ	yōkoso			
+126	bienvenue		ようこそ	yōkoso		"<img src=""bienvenue.png"">"	
 127	enchanté		どうぞよろしく	dōzoyoroshiku			
 128	ravi de faire votre connaissance		はじめまして	hajimemashite			
 129	joyeux anniversaire		おたんじょうびおめでとう	otanjōbi omedetō			
 130	félicitations		おめでとうございます	omedetō gozaimasu	[sound:pronunciation_ja_おめでとうございます.mp3]		
-131	anniversaire		おたんじょうび	otanjōbi			
+131	anniversaire		おたんじょうび	otanjōbi		"<img src=""anniversaire.png"">"	
 132	heure		じ	ji			
 133	et demie (heure)		はん	han			
 134	quelle heure est-il ?		なんじですか	nanji desu ka			
@@ -151,7 +151,7 @@
 145	êtres vivants		いきもの	ikimono			
 146	gens, personnes		ひと	hito			
 147	enfants		こども	kodomo			
-148	ami		ともだち	tomodachi			
+148	ami		ともだち	tomodachi		"<img src=""ami.png"">"	
 149	fil		いと	ito			
 150	Japon	日本	にほん	nihon		"<img src=""japon.png"">"	
 151	France	フランス	ふらんす	furansu		"<img src=""france.png"">"	
@@ -191,8 +191,8 @@
 185	qui ?		だれ	dare			
 186	de la part de		から	kara			
 187	collègue		どうりょう	dōryō			
-188	bureau, entreprise, compagnie		かいしゃ	kaisha			
-189	carte de nouvel an		ねんがしょう	nengashō			
+188	bureau, entreprise, compagnie		かいしゃ	kaisha		"<img src=""bureau.png"">"	
+189	carte de nouvel an		ねんがしょう	nengashō		"<img src=""carte de nouvel an.png"">"	
 190	ticket		きっぷ	kippu			
 191	carte, plan		ちず	chizu			
 192	gare		えき	eki		"<img src=""gare.png"">"	
@@ -200,14 +200,14 @@
 194	gâteau	ケーキ	けーき	kēki			
 195	œuf		たまご	tamago			
 196	au revoir (familier)		じゃあね	jaane			
-197	bien, en bonne santé		げんき	genki			
+197	bien, en bonne santé		げんき	genki		"<img src=""en bonne santé.png"">"	
 198	froid		さむい	samui			
 199	lapin		うさぎ	usagi			
 200	raton laveur		たぬき	tanuki			
 201	yen		えん	en			
 202	spa		おんせん	onsen			
-203	carpe		こい	koi			
-204	auberge japonaise		りょかん	ryokan			
+203	carpe		こい	koi		"<img src=""carpe.png"">"	
+204	auberge japonaise		りょかん	ryokan		"<img src=""auberge japonaise.png"">"	
 205	citron		ゆず	yuzu			
 206	papier cadeau		ふろしき	furoshiki			
 207	tambour		たいこ	taiko			
@@ -216,9 +216,9 @@
 210	famille		かぞく	kazoku			
 211	occupé		いそがしい	isogashii			
 212	ingénieur	エンジニア	えんじにあ	enjinia			
-213	antenne	アンテナ	あんてな	antena			
+213	antenne	アンテナ	あんてな	antena		"<img src=""antenne.png"">"	
 214	quatre	四	よん	yon		"<img src=""quatre.png"">"	
-215	années (âge)		さい	sai			
+215	années (âge)		さい	sai		"<img src=""années (âge).png"">"	
 216	grande sœur		あね	ane			
 217	petite sœur		いもうと	imōto			
 218	membre (de)		いん	in			
@@ -226,7 +226,7 @@
 220	grand frère		あに	ani			
 221	petit frère		おとうと	otōto			
 222	infirmière		かんごし	kangoshi			
-223	bruyant		うるさい	urusai			
+223	bruyant		うるさい	urusai		"<img src=""bruyant.png"">"	
 224	cinq	五	ご	go		"<img src=""cinq.png"">"	
 225	six	六	ろく	roku		"<img src=""six.png"">"	
 226	célèbre, connu		ゆうめい	yūmei			
