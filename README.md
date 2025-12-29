@@ -95,4 +95,17 @@ Cliquer sur "Exporter..."
 
 - [Picto facile](https://www.pictofacile.com/fr/download-picto)
 - [ARASAAC](https://arasaac.org/pictograms/search)
+- [Open Symbols](https://www.opensymbols.org/)
+- [Pixabay vectors](https://pixabay.com/vectors/)
+
+### Convertir un pictogramme
+
+Les pictogrammes de la base sont des images au format `.png` de taille 500x500
+pixels.
+
+Avec `imagemagick` :
+
+```shell
+magick <image.svg> -resize 500x500 <image.png>
+```
 
