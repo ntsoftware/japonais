@@ -99,8 +99,8 @@
 93	aller		いく	iku		"<img src=""aller.png"">"	
 94	acheter		かう	kau		"<img src=""acheter.png"">"	
 95	courses		かいもの	kaimono		"<img src=""courses.png"">"	
-96	petit magasin, supérette	コンビに	こんびに	konbini			
-97	grand magasin	デパート	でぱーと	depāto			
+96	petit magasin, supérette	コンビに	こんびに	konbini		"<img src=""petit magasin.png"">"	
+97	grand magasin	デパート	でぱーと	depāto		"<img src=""grand magasin.png"">"	
 98	magasin, restaurant		みせ	mise		"<img src=""magasin.png"">"	
 99	nourriture		たべもの	tabemono		"<img src=""nourriture.png"">"	
 100	manger		たべる	taberu		"<img src=""manger.png"">"	
@@ -125,34 +125,34 @@
 119	bonjour (matin)		おはようおざいます	ohayō gozaimasu			
 120	bonjour (midi)		こんにちは	konnichiwa			
 121	bonjour (soir)		こんばんは	konbanwa			
-122	à demain		またあした	mata ashita			
+122	à demain		またあした	mata ashita		"<img src=""à demain.png"">"	
 123	s’il vous plaît		ください	kudasai			
-124	excusez-moi		すみません	sumimasen			
-125	de rien, pas de problème		いいよ	iiyo			
+124	excusez-moi		すみません	sumimasen		"<img src=""excusez-moi.png"">"	
+125	de rien, pas de problème		いいよ	iiyo		"<img src=""pas de problème.png"">"	
 126	bienvenue		ようこそ	yōkoso		"<img src=""bienvenue.png"">"	
-127	enchanté		どうぞよろしく	dōzoyoroshiku			
-128	ravi de faire votre connaissance		はじめまして	hajimemashite			
-129	joyeux anniversaire		おたんじょうびおめでとう	otanjōbi omedetō			
-130	félicitations		おめでとうございます	omedetō gozaimasu	[sound:pronunciation_ja_おめでとうございます.mp3]		
+127	enchanté		どうぞよろしく	dōzoyoroshiku		"<img src=""enchanté.png"">"	
+128	ravi de faire votre connaissance		はじめまして	hajimemashite		"<img src=""ravi de faire votre connaissance.png"">"	
+129	joyeux anniversaire		おたんじょうびおめでとう	otanjōbi omedetō		"<img src=""joyeux anniversaire.png"">"	
+130	félicitations		おめでとうございます	omedetō gozaimasu	[sound:pronunciation_ja_おめでとうございます.mp3]	"<img src=""félicitations.png"">"	
 131	anniversaire		おたんじょうび	otanjōbi		"<img src=""anniversaire.png"">"	
-132	heure		じ	ji			
-133	et demie (heure)		はん	han			
+132	heure		じ	ji		"<img src=""heure.png"">"	
+133	et demie (heure)		はん	han		"<img src=""et demie (heure).png"">"	
 134	quelle heure est-il ?		なんじですか	nanji desu ka			
-135	maintenant		いま	ima			
-136	matin		あさ	asa			
-137	midi		ひる	hiru			
-138	soir		よる	yoru			
-139	demain		あした	ashita			
-140	dormir		ねる	neru			
-141	lit	ベッド	べっど	beddo			
+135	maintenant		いま	ima		"<img src=""maintenant.png"">"	
+136	matin		あさ	asa		"<img src=""matin.png"">"	
+137	midi		ひる	hiru		"<img src=""midi.png"">"	
+138	soir		よる	yoru		"<img src=""soir.png"">"	
+139	demain		あした	ashita		"<img src=""demain.png"">"	
+140	dormir		ねる	neru		"<img src=""dormir.png"">"	
+141	lit	ベッド	べっど	beddo		"<img src=""lit.png"">"	
 142	est		です	desu			
 143	n’est pas		じゃないです	janaidesu			
-144	exister, être quelque part		いる	iru			
+144	exister, être quelque part		いる	iru		"<img src=""exister.png"">"	
 145	êtres vivants		いきもの	ikimono			
-146	gens, personnes		ひと	hito			
-147	enfants		こども	kodomo			
+146	gens, personnes		ひと	hito		"<img src=""personnes.png"">"	
+147	enfants		こども	kodomo		"<img src=""enfants.png"">"	
 148	ami		ともだち	tomodachi		"<img src=""ami.png"">"	
-149	fil		いと	ito			
+149	fil		いと	ito		"<img src=""fil.png"">"	
 150	Japon	日本	にほん	nihon		"<img src=""japon.png"">"	
 151	France	フランス	ふらんす	furansu		"<img src=""france.png"">"	
 152	États-Unis	アメリカ	あめりか	amerika		"<img src=""états-unis.png"">"	
@@ -168,11 +168,11 @@
 162	Osaka	大阪	おおさか	oosaka			
 163	New-York	ニューヨーク	にゆーよーく	niyū yōku			
 164	Toronto	トロント	とろんと	toronto			
-165	Paris	パリ	ぱり	pari			
+165	Paris	パリ	ぱり	pari		"<img src=""paris.png"">"	
 166	originaire de		じゅっしん	jusshin			
 167	j’habite à…		にすんでいます	ni sundeimasu			
-168	ville		とし	toshi			
-169	quartier		まち	machi			
+168	ville		とし	toshi		"<img src=""ville.png"">"	
+169	quartier		まち	machi		"<img src=""quartier.png"">"	
 170	ou		か	ka			
 171	et (énumération complète)		と	to			
 172	et (énumération incomplète)		や	ya			
@@ -182,40 +182,40 @@
 176	ceci (celui-ci / celle-ci)		これ	kore			
 177	cela (celui-là / celle-là)		それ	sore			
 178	cela (celui / celle) là-bas		あれ	are			
-179	ici		ここ	koko			
-180	là-bas		あそこ	asoko			
+179	ici		ここ	koko		"<img src=""ici.png"">"	
+180	là-bas		あそこ	asoko		"<img src=""là-bas.png"">"	
 181	ce (cet / cette) … -ci		この	kono			
 182	ce (cet / cette) … -là		その	sono			
 183	ce (cet / cette) … là-bas		あの	ano			
 184	quoi, que ?		なに	nani			
 185	qui ?		だれ	dare			
 186	de la part de		から	kara			
-187	collègue		どうりょう	dōryō			
+187	collègue		どうりょう	dōryō		"<img src=""collègue.png"">"	
 188	bureau, entreprise, compagnie		かいしゃ	kaisha		"<img src=""bureau.png"">"	
 189	carte de nouvel an		ねんがしょう	nengashō		"<img src=""carte de nouvel an.png"">"	
-190	ticket		きっぷ	kippu			
-191	carte, plan		ちず	chizu			
+190	ticket		きっぷ	kippu		"<img src=""ticket.png"">"	
+191	carte, plan		ちず	chizu		"<img src=""carte.png"">"	
 192	gare		えき	eki		"<img src=""gare.png"">"	
 193	université		だいがく	daigaku		"<img src=""université.png"">"	
-194	gâteau	ケーキ	けーき	kēki			
-195	œuf		たまご	tamago			
-196	au revoir (familier)		じゃあね	jaane			
+194	gâteau	ケーキ	けーき	kēki		"<img src=""gâteau.png"">"	
+195	œuf		たまご	tamago		"<img src=""œuf.png"">"	
+196	au revoir (familier)		じゃあね	jaane		"<img src=""au revoir (familier).png"">"	
 197	bien, en bonne santé		げんき	genki		"<img src=""en bonne santé.png"">"	
-198	froid		さむい	samui			
-199	lapin		うさぎ	usagi			
-200	raton laveur		たぬき	tanuki			
+198	froid		さむい	samui		"<img src=""froid.png"">"	
+199	lapin		うさぎ	usagi		"<img src=""lapin.png"">"	
+200	raton-laveur		たぬき	tanuki		"<img src=""raton-laveur.png"">"	
 201	yen		えん	en			
-202	spa		おんせん	onsen			
+202	spa		おんせん	onsen		"<img src=""spa.png"">"	
 203	carpe		こい	koi		"<img src=""carpe.png"">"	
 204	auberge japonaise		りょかん	ryokan		"<img src=""auberge japonaise.png"">"	
-205	citron		ゆず	yuzu			
-206	papier cadeau		ふろしき	furoshiki			
-207	tambour		たいこ	taiko			
-208	mère	母	はは	haha			
-209	père	父	ちち	chichi			
-210	famille		かぞく	kazoku			
-211	occupé		いそがしい	isogashii			
-212	ingénieur	エンジニア	えんじにあ	enjinia			
+205	citron		ゆず	yuzu		"<img src=""citron.png"">"	
+206	papier cadeau		ふろしき	furoshiki		"<img src=""papier cadeau.png"">"	
+207	tambour		たいこ	taiko		"<img src=""tambour.png"">"	
+208	mère	母	はは	haha		"<img src=""mère.png"">"	
+209	père	父	ちち	chichi		"<img src=""père.png"">"	
+210	famille		かぞく	kazoku		"<img src=""famille.png"">"	
+211	occupé		いそがしい	isogashii		"<img src=""occupé.png"">"	
+212	ingénieur	エンジニア	えんじにあ	enjinia		"<img src=""ingénieur.png"">"	
 213	antenne	アンテナ	あんてな	antena		"<img src=""antenne.png"">"	
 214	quatre	四	よん	yon		"<img src=""quatre.png"">"	
 215	années (âge)		さい	sai		"<img src=""années (âge).png"">"	
@@ -225,16 +225,16 @@
 219	employé de bureau		かいしゃいん	kaishain			
 220	grand frère		あに	ani			
 221	petit frère		おとうと	otōto			
-222	infirmière		かんごし	kangoshi			
+222	infirmier		かんごし	kangoshi		"<img src=""infirmier.png"">"	
 223	bruyant		うるさい	urusai		"<img src=""bruyant.png"">"	
 224	cinq	五	ご	go		"<img src=""cinq.png"">"	
 225	six	六	ろく	roku		"<img src=""six.png"">"	
-226	célèbre, connu		ゆうめい	yūmei			
+226	célèbre, connu		ゆうめい	yūmei		"<img src=""célèbre.png"">"	
 227	fille (filiation)		むすめ	musume			
-228	femme (mariée)		つま	tsuma			
+228	femme (mariée)		つま	tsuma		"<img src=""femme (mariée).png"">"	
 229	étudiant (à l’université)		だいがくせい	daigakusei			
 230	sept	七	なな	nana		"<img src=""sept.png"">"	
 231	à la mode		おしゃれ	oshare			
 232	fils (filiation)		むすこ	musuko			
-233	mari		おっと	otto			
+233	mari		おっと	otto		"<img src=""mari.png"">"	
 234	intelligent		あたまがいい	atamagaii			
