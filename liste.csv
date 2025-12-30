@@ -121,7 +121,7 @@
 115	fruits		くだもの	kudamono		"<img src=""fruits.png"">"	
 116	café	コーヒー	こーひー	kōhī		"<img src=""café.png"">"	
 117	bonbon		あめ	ame		"<img src=""bonbon.png"">"	
-118	bon, délicieux		おいしい	oishii		"<img src=""bon.png"">"	
+118	bon (goût)		おいしい	oishii		"<img src=""bon.png"">"	
 119	bonjour (matin)		おはようざいます	ohayō gozaimasu			
 120	bonjour (midi)		こんにちは	konnichiwa			
 121	bonjour (soir)		こんばんは	konbanwa			
@@ -130,7 +130,7 @@
 124	excusez-moi		すみません	sumimasen		"<img src=""excusez-moi.png"">"	
 125	de rien, pas de problème		いいよ	iiyo		"<img src=""pas de problème.png"">"	
 126	bienvenue		ようこそ	yōkoso			
-127	enchanté		どうぞよろしく	dōzoyoroshiku			
+127	enchanté		どうぞよろしく	dōzo yoroshiku			
 128	ravi de faire votre connaissance		はじめまして	hajimemashite			
 129	joyeux anniversaire		おたんじょうびおめでとう	otanjōbi omedetō		"<img src=""joyeux anniversaire.png"">"	
 130	félicitations		おめでとうございます	omedetō gozaimasu	[sound:pronunciation_ja_おめでとうございます.mp3]	"<img src=""félicitations.png"">"	
@@ -219,22 +219,36 @@
 213	antenne	アンテナ	あんてな	antena		"<img src=""antenne.png"">"	
 214	quatre	四	よん	yon		"<img src=""quatre.png"">"	
 215	années (âge)		さい	sai		"<img src=""années (âge).png"">"	
-216	grande sœur		あね	ane			
-217	petite sœur		いもうと	imōto			
+216	grande sœur	姉	あね	ane			
+217	petite sœur	妹	いもうと	imōto			
 218	membre (de)		いん	in			
 219	employé de bureau		かいしゃいん	kaishain			
-220	grand frère		あに	ani			
-221	petit frère		おとうと	otōto			
-222	infirmier		かんごし	kangoshi		"<img src=""infirmier.png"">"	
-223	bruyant		うるさい	urusai		"<img src=""bruyant.png"">"	
+220	grand frère	兄	あに	ani			
+221	petit frère	弟	おとうと	otōto			
+222	infirmier	看護師	かんごし	kangoshi		"<img src=""infirmier.png"">"	
+223	bruyant	煩い	うるさい	urusai		"<img src=""bruyant.png"">"	
 224	cinq	五	ご	go		"<img src=""cinq.png"">"	
 225	six	六	ろく	roku		"<img src=""six.png"">"	
-226	célèbre, connu		ゆうめい	yūmei		"<img src=""célèbre.png"">"	
-227	fille (filiation)		むすめ	musume			
-228	femme (mariée)		つま	tsuma		"<img src=""femme (mariée).png"">"	
-229	étudiant (à l’université)		だいがくせい	daigakusei			
+226	célèbre, connu	有名	ゆうめい	yūmei		"<img src=""célèbre.png"">"	
+227	fille (filiation)	娘	むすめ	musume			
+228	femme (mariée)	妻	つま	tsuma		"<img src=""femme (mariée).png"">"	
+229	étudiant (à l’université)	大学生	だいがくせい	daigakusei			
 230	sept	七	なな	nana		"<img src=""sept.png"">"	
-231	à la mode		おしゃれ	oshare			
-232	fils (filiation)		むすこ	musuko			
-233	mari		おっと	otto		"<img src=""mari.png"">"	
-234	intelligent		あたまがいい	atamagaii			
+231	à la mode	お洒落	おしゃれ	oshare			
+232	fils (filiation)	息子	むすこ	musuko			
+233	mari	夫	おっと	otto		"<img src=""mari.png"">"	
+234	intelligent	頭がいい	あたまがいい	atamagaii			
+235	peu cher	安い	やすい	yasui			
+236	cher, haut	高い	たかい	takai			
+237	mauvais (goût)	不味い	まずい	mazui			
+238	pomme	林檎	りんご	ringo			
+239	fraise	苺	いちご	ichigo			
+240	important	重要	じゅうよう	jūyō			
+241	simple, facile, pas compliqué	簡単	かんたん	kantan			
+242	bâtiment	建物	たてもの	tatemono			
+243	de ce côté-ci, ici, cette personne-ci	此方	こちら	kochira			
+244	je vous prie		どうぞ	dōzo			
+245	carte de visite	名刺	めいし	meishi			
+246	je vous remercie		ありがとうございます	arigatō gozaimasu			
+247	alors, et bien		では	dewa			
+248	merci, je suis désolé de vous déranger, au revoir		しつれいします	shitsurei shimasu			
