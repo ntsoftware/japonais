@@ -2,19 +2,15 @@
 
 import logging
 
-from . import cli, config, model
+from . import cli
 
 
 def main():
     """Tool entry point."""
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
-    cfg = config.load("tool.ini")
-
-    deck = model.deck.load(cfg)
-
     args = cli.parse_args()
-    args.func(deck, cfg)
+    args.func(args)
 
 
 if __name__ == "__main__":

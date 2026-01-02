@@ -10,6 +10,9 @@ class Config:
     def __init__(self, cfg):
         self._cfg = cfg
 
+        with open(cfg.get("forvo", "cookie"), "r", encoding="utf-8") as f:
+            self._forvo_cookie = f.read().strip()
+
     @property
     def anki_path(self):
         """Anki path."""
@@ -51,17 +54,17 @@ class Config:
         return self._cfg.get("sounds", "ext", fallback=".mp3")
 
     @property
-    def sounds_prefix(self):
-        """Sounds file prefix."""
-        return self._cfg.get("sounds", "prefix", fallback="pronunciation_ja_")
-
-    @property
     def downloads_dir(self):
         """Downloads directory."""
         return Path(self._cfg.get("downloads", "path")).expanduser()
 
+    @property
+    def forvo_cookie(self):
+        """Forvo session cookie."""
+        return self._forvo_cookie
 
-def load(path):
+
+def load(path = "tool.ini"):
     """Load tool configuration."""
     cfg = ConfigParser()
     cfg.read(path)

@@ -30,7 +30,7 @@ def _format_picto(picto):
     return f'<img src="{picto}">' if picto else ""
 
 
-def _parse_sound(field, ext, prefix):
+def _parse_sound(field, ext):
     """Parse a CSV sound field."""
     if field:
         m = re.match(r'\[sound:(.*)\]', field)
@@ -38,8 +38,6 @@ def _parse_sound(field, ext, prefix):
             sound = m.group(1).strip()
             if not sound.endswith(ext):
                 logging.warning("sound file '%s' extension is not '%s'", sound, ext)
-            elif not sound.startswith(prefix):
-                logging.warning("sound file '%s' prefix is not '%s'", sound, prefix)
             else:
                 return sound
         else:
@@ -99,6 +97,7 @@ class Deck:
                     "ja": card.text.ja,
                     "furigana": card.text.furigana,
                     "romaji": card.text.romaji,
+                    "accent": card.text.accent,
                     "picto": _format_picto(card.media.picto),
                     "sound": _format_sound(card.media.sound),
                     "tags": _format_tags(card.tags),
@@ -155,7 +154,6 @@ def load(cfg):
 
     pictos_ext = cfg.pictos_ext
     sounds_ext = cfg.sounds_ext
-    sounds_prefix = cfg.sounds_prefix
 
     for row in reader:
         card_text = CardText(
@@ -163,15 +161,16 @@ def load(cfg):
             ja=row["ja"],
             furigana=row["furigana"],
             romaji=row["romaji"],
+            accent=row["accent"]
         )
 
-        card_media  = CardMedia(
+        card_media = CardMedia(
             picto=_parse_picto(row["picto"], pictos_ext),
-            sound=_parse_sound(row["sound"], sounds_ext, sounds_prefix),
+            sound=_parse_sound(row["sound"], sounds_ext),
         )
 
         cards.append(Card(
-            guid=int(row["id"]),
+            guid=row["id"],
             text=card_text,
             media=card_media,
             tags=_parse_tags(row["tags"]),

@@ -10,6 +10,7 @@ class CardText:
     ja: str
     furigana: str
     romaji: str
+    accent: str
 
 
 @dataclass
@@ -22,7 +23,7 @@ class CardMedia:
 @dataclass
 class Card:
     """Card model."""
-    guid: int
+    guid: str
     text: CardText
     media: CardMedia
     tags: [str]

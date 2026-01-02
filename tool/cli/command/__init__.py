@@ -1,5 +1,6 @@
 """Tool commands."""
 
-from .check import check
-from .copy import copy
+from .forvo import forvo
+from .ojad import ojad
+from .sync import sync
 from .update import update
