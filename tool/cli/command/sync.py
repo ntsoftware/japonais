@@ -1,11 +1,18 @@
-"""Tool 'copy' command."""
+"""Tool 'sync' command."""
 
 import logging
 import shutil
 
+from tool import config, model
 
-def copy(deck, cfg):
-    """Tool 'copy' command."""
+
+def sync(_args):
+    """Tool 'sync' command."""
+
+    cfg = config.load()
+
+    deck = model.deck.load(cfg)
+
     media_dir = cfg.anki_path.joinpath(cfg.anki_user, "collection.media")
 
     for card in deck:

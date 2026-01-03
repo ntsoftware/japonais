@@ -1,11 +1,13 @@
 """Tool 'ojad' command."""
 
-from tool.service.ojad import get_accent
+from tool.service.ojad import get_accents
 
 
 def ojad(args):
     """Tool 'ojad' command."""
 
     for word in args.words:
-        accent = get_accent(word)
-        print(accent)
+        accents = get_accents(word)
+
+        for html in accents.values():
+            print(html)
