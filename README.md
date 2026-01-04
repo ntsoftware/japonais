@@ -81,6 +81,10 @@ Cliquer sur "Exporter..."
 
 [Anki Manual - Text files](https://docs.ankiweb.net/importing/text-files.html)
 
+## Furigana
+
+[Générateur de Furigana](https://kanjikana.com/fr/tools/furigana)
+
 ## Accents
 
 [Rechercher l'accent d'un mot](https://www.gavo.t.u-tokyo.ac.jp/ojad/fre/search/index)
